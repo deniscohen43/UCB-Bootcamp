@@ -1,0 +1,3 @@
+1. The data set is helpful in vizualizing the temperatures of cities based on the geographic location escpecially focused on the cities' latitude. We can see from the first scatterplot that as the city latitude converges closer to 0, the temperatur is increased
+2. We can also see that the inverse of the observatiomn is true in terms of the wind speed. As the latitude converges closer to 0, the wind speed is lower than the cities with very negative or very positive latitudes
+3. Based on the scatterplot that is made of the latitudes and the humidity %, we can see a trend that somewhat resembles the observation of the first graph but there is much more varibaility and not enough of a trend to make a strong correlation.
